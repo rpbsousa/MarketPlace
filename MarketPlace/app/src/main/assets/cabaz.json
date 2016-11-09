@@ -1,0 +1,96 @@
+[
+  {
+    "category": "LACTICINIOS",
+    "subCategory": "QUEIJO",
+    "section": "flamengo",
+    "description": "Queijo Flamengo Barra Fatiado",
+    "price": 1.89,
+    "quantity": 0.2,
+    "brand": "Agros"
+  },
+  {
+    "category": "LACTICINIOS",
+    "subCategory": "QUEIJO",
+    "section": "flamengo",
+    "description": "Queijo Flamengo Fatiado",
+    "price": 2.59,
+    "quantity": 0.5,
+    "brand": "Continente"
+  },
+  {
+    "category": "LACTICINIOS",
+    "subCategory": "QUEIJO",
+    "section": "flamengo",
+    "description": "Queijo Flamengo Barra Fatiado",
+    "price": 1.99,
+    "brand": "Nova Açores"
+  },
+
+
+  {
+    "category": "MERCEARIA",
+    "subCategory": "MASSA",
+    "section": "cotovelos",
+    "description": "Massa Cotovelos",
+    "price": 0.99,
+    "quantity": 0.5,
+    "brand": "Nacional"
+  },
+  {
+    "category": "MERCEARIA",
+    "subCategory": "MASSA",
+    "section": "cotovelos",
+    "description": "Massa Cotovelinhos",
+    "price": 2.59,
+    "quantity": 0.5,
+    "brand": "Caçarola"
+  },
+  {
+    "category": "MERCEARIA",
+    "subCategory": "ARROZ",
+    "section": "agulha",
+    "description": "Arroz Agulha Extra Longo",
+    "price": 0.74,
+    "brand": "Bom Sucesso"
+  },
+  {
+    "category": "MERCEARIA",
+    "subCategory": "ARROZ",
+    "section": "agulha",
+    "description": "Arroz Agulha",
+    "price": 0.92,
+    "brand": "Pato Real"
+  },
+  {
+    "category": "MERCEARIA",
+    "subCategory": "TOSTAS",
+    "section": "integral",
+    "description": "Tosta Integral",
+    "price": 2.24,
+    "brand": "Diatosta"
+  },
+  {
+    "category": "MERCEARIA",
+    "subCategory": "TOSTAS",
+    "section": "integral",
+    "description": "Tosta Dietética",
+    "price": 0.99,
+    "brand": "Diatosta"
+  },
+  {
+    "category": "BEBIDAS",
+    "subCategory": "REFRIGERANTES",
+    "sections": ["COM GÁS", "COLA"],
+    "description": "Refrigerante com gás Pepsi Twist",
+    "price": 1.19,
+    "brand": "Pepsi"
+  },
+  {
+    "category": "BEBIDAS",
+    "subCategory": "REFRIGERANTES",
+    "sections": ["COM GÁS", "COLA"],
+    "description": "Refrigerante com gás",
+    "price": 1.29,
+    "brand": "Coca-Cola"
+  }
+]

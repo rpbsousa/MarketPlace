@@ -1,0 +1,50 @@
+[
+  {
+    "term": "LACTICINIOS",
+    "subTerms" : [
+      {
+        "term" : "LEITE",
+        "subTerms": [
+          "MAGRO",
+          "MEIO GORDO",
+          "GORDO",
+          "SOJA"
+        ]
+      },
+      {
+        "term":"QUEIJO",
+        "subTerms" : [
+          "OVELHA",
+          "CABRA",
+          "ILHA"
+        ]
+      }
+    ]
+  },
+  {
+    "term": "MERCEARIA",
+    "subTerms": [
+      {
+        "term": "ARROZ",
+        "subTerms": [
+          "Arroz chinês",
+          "Arroz japonês"
+        ]
+      },
+      {
+        "term": "MASSA",
+        "subTerms": [
+          "massa tipo 1",
+          "massa tipo 2"
+        ]
+      },
+      {
+        "term": "FARINHA",
+        "subTerms": [
+          "farinha tipo 1",
+          "farinha tipo 2"
+        ]
+      }
+    ]
+  }
+]

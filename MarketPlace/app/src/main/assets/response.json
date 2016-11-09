@@ -1,0 +1,14 @@
+[
+  {
+    "brand" : "brand name 1",
+    "price" : 13.30
+  },
+  {
+    "brand": "brand name 2",
+    "price": 14.60
+  },
+  {
+    "brand" : "brand name 3",
+    "price" : 15.80
+  }
+]

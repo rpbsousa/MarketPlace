@@ -1,0 +1,74 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="font_header_label" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#9795FF</item>
+        <!--<item name="android:textColor">#1565c0</item>-->
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">28dp</item>
+    </style>
+
+
+    <style name="simple_button" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">28dp</item>
+    </style>
+
+
+    <style name="bid_all_ok" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">24dp</item>
+    </style>
+
+    <style name="bid_all_ok_changed" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFF00</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">24dp</item>
+    </style>
+
+    <style name="bid_missing" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FF4081</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">24dp</item>
+    </style>
+
+
+    <style name="list_item_description" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#263238</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="list_category_label" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#eceff1</item>
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+</resources>

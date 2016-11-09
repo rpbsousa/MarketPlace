@@ -1,0 +1,38 @@
+[
+  {
+    "subCategory": "LEITE",
+    "si": "volume",
+    "sections": [
+      "magro",
+      "meio magro",
+      "gordo"
+    ]
+  },
+  {
+    "subCategory": "QUEIJO",
+    "si": "mass",
+    "sections": [
+      "flamengo",
+      "cabra",
+      "ovelha"
+    ]
+  },
+  {
+    "subCategory": "PUDIM",
+    "si": "mass",
+    "sections": [
+      "ovos",
+      "chocolate",
+      "morango",
+      "caramelo"
+    ]
+  },
+  {
+    "subCategory": "AROMA",
+    "si": "mass",
+    "sections": [
+      "baunilha",
+      "limão"
+    ]
+  }
+]
